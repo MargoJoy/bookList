@@ -1,0 +1,12 @@
+body{
+    background-color: #565656;
+}
+
+.container{
+    background-color: #FFFFFF;
+    height: 100vh;
+}
+
+i{
+    padding-left: 10px;
+}
